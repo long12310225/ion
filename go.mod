@@ -21,6 +21,6 @@ require (
 	github.com/tj/assert v0.0.3
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 // indirect
-	google.golang.org/grpc v1.35.0
+	google.golang.org/grpc v1.37.1
 	google.golang.org/protobuf v1.25.0
 )
